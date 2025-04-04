@@ -1,5 +1,7 @@
 # Excel Merger - Next.js Version
 
+# WORK IN PROGRESS! CANNOT PLAY! 
+
 一个基于 Next.js 的 Excel 文件合并工具，用于上传、比较和合并 Excel 文件。这个版本是为 Vercel 部署而优化的。
 
 ## 功能特点
